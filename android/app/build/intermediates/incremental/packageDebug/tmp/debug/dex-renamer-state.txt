@@ -1,0 +1,4 @@
+#Fri Dec 28 14:47:54 BRT 2018
+base.0=/var/www/erpMobile/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

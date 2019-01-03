@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-extra-dimensions-android] /var/www/erpMobile/node_modules/react-native-extra-dimensions-android/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /var/www/erpMobile/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.3] /home/toor/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/8811fc7f61b8c9f62740b819a90b6814/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/83a86c5e173e79c399795b939c0a661c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/47bba6a88fa992e696015a05b3699ea7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f02096c64c299d86b7443a425e80f2d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d87baf64ab130e5f5494e4a7e6552992/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/750291d4214200b85b4e26610716c5f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/56df2e8330a4c14121c226f481eb6932/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f3db46f7107eb62ed33b222c3e9ec866/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/toor/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/d355bf802909360e54403b1a4398df4f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/toor/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/10c41fa0f69d775e876e45b56a64d501/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/toor/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/652eedf2336b736ac44a72901f1d3fae/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/toor/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/3380ebbf607ff774f668b0f4632ae2d7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/toor/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/97c5b6e1a413a9389594791c2087ca3c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/toor/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/4c5ff8e36ccd5b259dc0418c5c0f4f98/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/toor/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/688a7fc46c8fd88357c41726c496abef/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/toor/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/96c783aa8ab9c696782f31860dcdfed9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/toor/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6d84af9839823b33c29ea377d9a67553/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/toor/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/a02e4385a473f0491402261563179261/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/toor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/60d280a4aabde7281f7537f291436473/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/toor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/25aa3acc6d5323a55e7e82b9125b0021/AndroidManifest.xml:17:1-22:12
+INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.3] /home/toor/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/8811fc7f61b8c9f62740b819a90b6814/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.3] /home/toor/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/8811fc7f61b8c9f62740b819a90b6814/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.3] /home/toor/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/8811fc7f61b8c9f62740b819a90b6814/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.3] /home/toor/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/8811fc7f61b8c9f62740b819a90b6814/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/toor/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/4c5ff8e36ccd5b259dc0418c5c0f4f98/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/toor/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/4c5ff8e36ccd5b259dc0418c5c0f4f98/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/toor/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/688a7fc46c8fd88357c41726c496abef/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/toor/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/688a7fc46c8fd88357c41726c496abef/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.vendas.MainActivity
+ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-extra-dimensions-android] /var/www/erpMobile/node_modules/react-native-extra-dimensions-android/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-extra-dimensions-android] /var/www/erpMobile/node_modules/react-native-extra-dimensions-android/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /var/www/erpMobile/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /var/www/erpMobile/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.3] /home/toor/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/8811fc7f61b8c9f62740b819a90b6814/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.3] /home/toor/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/8811fc7f61b8c9f62740b819a90b6814/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/83a86c5e173e79c399795b939c0a661c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/83a86c5e173e79c399795b939c0a661c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/47bba6a88fa992e696015a05b3699ea7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/47bba6a88fa992e696015a05b3699ea7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f02096c64c299d86b7443a425e80f2d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f02096c64c299d86b7443a425e80f2d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d87baf64ab130e5f5494e4a7e6552992/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d87baf64ab130e5f5494e4a7e6552992/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/750291d4214200b85b4e26610716c5f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/750291d4214200b85b4e26610716c5f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/56df2e8330a4c14121c226f481eb6932/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/56df2e8330a4c14121c226f481eb6932/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f3db46f7107eb62ed33b222c3e9ec866/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/toor/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f3db46f7107eb62ed33b222c3e9ec866/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/toor/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/d355bf802909360e54403b1a4398df4f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/toor/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/d355bf802909360e54403b1a4398df4f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/toor/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/10c41fa0f69d775e876e45b56a64d501/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/toor/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/10c41fa0f69d775e876e45b56a64d501/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/toor/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/652eedf2336b736ac44a72901f1d3fae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/toor/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/652eedf2336b736ac44a72901f1d3fae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/toor/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/3380ebbf607ff774f668b0f4632ae2d7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/toor/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/3380ebbf607ff774f668b0f4632ae2d7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/toor/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/97c5b6e1a413a9389594791c2087ca3c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/toor/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/97c5b6e1a413a9389594791c2087ca3c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/toor/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/4c5ff8e36ccd5b259dc0418c5c0f4f98/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/toor/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/4c5ff8e36ccd5b259dc0418c5c0f4f98/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/toor/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/96c783aa8ab9c696782f31860dcdfed9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/toor/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/96c783aa8ab9c696782f31860dcdfed9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/toor/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6d84af9839823b33c29ea377d9a67553/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/toor/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6d84af9839823b33c29ea377d9a67553/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/toor/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/a02e4385a473f0491402261563179261/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/toor/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/a02e4385a473f0491402261563179261/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/toor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/60d280a4aabde7281f7537f291436473/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/toor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/60d280a4aabde7281f7537f291436473/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/toor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/25aa3acc6d5323a55e7e82b9125b0021/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/toor/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/25aa3acc6d5323a55e7e82b9125b0021/AndroidManifest.xml:20:5-44
+INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /var/www/erpMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
